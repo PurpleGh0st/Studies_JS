@@ -1,0 +1,8 @@
+input {
+    font: normal 18px arial;
+    width: 100px;
+}
+
+div#res {
+    margin-top: 20px;
+}
