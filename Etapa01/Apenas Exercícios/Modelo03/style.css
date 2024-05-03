@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #303030;
+    font: normal 20px monospace;
+    color: rgba(255, 255, 255, 0.493);
+}
+
+h1 {
+    text-align: center;
+    padding: 2%;
+}
+
+section {
+    background-color: white;
+    padding: 1%;
+    width: 700px;
+    margin: auto;
+    color: black;
+    box-shadow: 5px 5px 10px rgb(25, 2, 46);
+}
+
+footer {
+    padding: 2%;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding: 2%;
+    line-height: 30px;
+}
