@@ -45,7 +45,7 @@ div {
     font: normal 18px monospace;
     border: none;
     margin-top: 3%;
-    padding: 10px 20px;
+    padding: 10px;
     cursor: pointer;
     transition: background-color 1s ease, color 0.5s ease;
 }
